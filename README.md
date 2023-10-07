@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning programming language 
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ...
 
 <!---
 garima00112/garima00112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
